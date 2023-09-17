@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruochen Wang / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruochen Wang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -236,14 +236,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
